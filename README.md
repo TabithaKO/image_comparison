@@ -15,7 +15,7 @@ Linux (Tested on MacOS)
 Python
 Python Packages
  - numpy
- - opencv-python
+ - requests
  - TensorFlow
  - matplotlib
  ```
